@@ -52,7 +52,7 @@ const useStyles = makeStyles((theme) => ({
     flexWrap: 'wrap',
   },
   toolbarTitle: {
-    fontFamily: '"Amarante", cursive',
+    fontFamily: '"BeVietnamPro"',
     fontSize: '30px',
     flexGrow: 1,
   },
